@@ -14,8 +14,8 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "launchBrowser": true,
-      "launchUrl": "api/TodoItems"
+      "launchBrowser": true
+      //"launchUrl": "api/TodoItems"
     },
     "TodoApi": {
       "applicationUrl": "https://localhost:5001",
@@ -24,8 +24,8 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "launchBrowser": true,
-      "launchUrl": "swagger"
+      "launchBrowser": true
+      //"launchUrl": "swagger"
     }
   }
 }
